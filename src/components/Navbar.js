@@ -38,7 +38,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <span style={{ color: "white", fontWeight: "bold" }}>As</span>
+          <span style={{ color: "white", fontWeight: "bold" }}>Portfolio</span>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
